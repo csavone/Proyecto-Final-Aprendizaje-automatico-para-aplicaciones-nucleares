@@ -1,4 +1,4 @@
-# Proyecto-Final-Aprendizaje-automático-para-aplicaciones-nucleares
+# DETECCIÓN DE ANOMALÍAS EN EQUIPOS ROTANTES Proyecto-Final-Aprendizaje-automático-para-aplicaciones-nucleares
 
 Objetivo: Detección de anomalías en máquinas rotantes
 Datos: : 5000 registros de sensores de una máquina rotativa (vibración de ejes, temperatura, corriente eléctrica, velocidad de rotación (RPM) y presión interna, etc.). Cada registro tiene una etiqueta que indica el tipo de falla (sin falla, falla de rodamiento, desequilibrio del rotor, desalineación) y un indicador binario de requerimiento de mantenimiento (para cualquier tipo de falla).
